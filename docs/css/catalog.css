@@ -1560,7 +1560,7 @@ body.catalog .gallery__inner {
 
   body.catalog main .blur-img {
     position: absolute;
-    z-index: 1;
+    z-index: 2;
     top: -6.6955684008%;
     left: 5.625%;
   }
